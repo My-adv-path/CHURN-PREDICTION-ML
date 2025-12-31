@@ -1,6 +1,7 @@
 # CHURN-PREDICTION-ML
 
 📌 Project Overview
+
 This project focuses on building a machine learning model to predict whether a customer is likely to churn (leave the service) based on their usage patterns, service details, and account information.
 The model helps telecom companies take proactive retention measures by identifying high-risk customers in advance.
 
@@ -24,6 +25,7 @@ Libraries:
         Scikit-learn
 
 📂 Dataset
+
 Telco Customer Churn Dataset
 Churn Label:
           1->churn
@@ -54,4 +56,5 @@ Visualization of Actual vs Predicted Churn provides insight into model performan
 Important features influencing churn are identified.
 
 👩‍💻 Author
+
 Aruna Arunachalam
